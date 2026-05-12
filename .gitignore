@@ -1,0 +1,10 @@
+token.pickle
+credentials.json
+service_account.json
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.env
+*.log
+.DS_Store
+.vscode/
